@@ -1,1 +1,1 @@
-# CrikBuzz
+# KricBuzz
